@@ -99,3 +99,22 @@ p {
     max-width: 50px;
 }
 
+/*--------------------------TEXT e IMG-----------------------------*/
+
+.flex .Textimg  {
+    display: flex;
+    align-items: center;
+    padding-top: -10%;
+}
+
+.flex .h3{
+    padding-right: 60%;
+    display: flex;
+    align-items: center;
+    gap: 2vh;
+}
+
+.flex .Textimg img {
+    height: 350px;
+    padding-left: 5%;
+}
