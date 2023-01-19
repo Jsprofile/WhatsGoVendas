@@ -6,6 +6,10 @@ const barsContainer = document.querySelector(".bar")
 const nav = document.querySelector("nav")
 const header = document.querySelector("header")
 
+const planos = document.querySelector("planos")
+
+
+
 
 barsContainer.addEventListener('click', ()=>{
     barsContainer.classList.toggle("activeBars")
